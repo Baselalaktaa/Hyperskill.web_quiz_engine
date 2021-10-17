@@ -1,0 +1,30 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Employee {
+
+        String name;
+        int salary;
+        String address;
+    }
+  learner_created: false
+- name: src/Test.java
+  visible: true
+  learner_created: true
+- name: src/A.java
+  visible: true
+  learner_created: true
+- name: src/a/A.java
+  visible: true
+  learner_created: true
+- name: src/b/Main.java
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/3006#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 08 Oct 2021 08:30:42 UTC
+record: -1
